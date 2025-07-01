@@ -1,2 +1,4 @@
 .hugo_build.lock
 public/*
+config/_default/hugo.toml
+.DS_Store

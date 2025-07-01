@@ -5,6 +5,8 @@
 # baseURL = "https://manuelanrig.ch"
 defaultContentLanguage = "en"
 
+theme = "congo"
+
 enableRobotsTXT = true
 summaryLength = 0
 
