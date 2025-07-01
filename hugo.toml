@@ -1,4 +1,0 @@
-baseURL = 'https://www.manuelanrig.ch'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'cango'
