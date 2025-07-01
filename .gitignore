@@ -2,3 +2,4 @@
 public/*
 config/_default/hugo.toml
 .DS_Store
+resources/_gen/*
