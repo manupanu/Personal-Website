@@ -1,27 +1,28 @@
 +++
-title = "results on two wheels"
-description = "A showcase of my cycling race results and achievements."
+title = "Bike Results Manuel"
+description = "A showcase of Manuel's cycling race results and achievements."
 date = 2025-07-01T00:00:00+02:00
 +++
 
-# My Bike Results
+{{< figure src="../../assets/img/verbier-ebike.jpeg" alt="E-Bike Racing in Verbier" caption="E-Bike Racing in Verbier" class="rounded-lg w-full mb-6" >}}
 
-Welcome to my cycling results page! Here I highlight my best performances, race results, and memorable moments on two wheels.
+I started racing XC National Races at a young age, then moved to Downhill as a teenager. After a bigger break traveling, I began riding more Enduro and entered some races for fun. Now, I do whatever I feel like—from Road races to E-Bike events.
 
-## Highlights
+## Best Results
 
-- **Swiss Epic 2024**: 12th overall, 2nd in age group
-- **Bike Marathon Classics 2023**: 5th overall
-- **Local XC Series**: Multiple podiums
-- **Specialized E-Bike Challenge**: Winner 2022
+| Race                                              | Year | Place |
+|---------------------------------------------------|------|-------|
+| Swiss Enduro Series: Leukerbad                    | 2024 | 5     |
+| Swiss Enduro Series: Einsiedeln (E-Bike)          | 2024 | 3     |
+| We Are One Canadian Enduro League: Revelstoke     | 2023 | 1     |
+| Swiss Enduro Series: Bike Kingdom                 | 2023 | 3     |
+| Swiss Enduro Series: Airolo                       | 2022 | 9     |
+| iXS Rookies Cup: Schönried (U19)                  | 2015 | 1     |
 
-## Race Results Table
+*For more details on each result, see Roots and Rain or Sportident event pages.*
 
-| Year | Event                        | Result         |
-|------|------------------------------|---------------|
-| 2024 | Swiss Epic                   | 12th Overall  |
-| 2023 | Bike Marathon Classics       | 5th Overall   |
-| 2022 | Specialized E-Bike Challenge | 1st Place     |
-| 2021 | Local XC Series              | Podiums       |
+{{< figure src="../../assets/img/revelstoke.jpeg" alt="Enduro in Revelstoke" caption="Enduro in Revelstoke" class="rounded-lg w-full mt-6" >}}
 
-*More results and stories coming soon!*
+---
+
+*Racing highlights from XC, Downhill, Enduro, Road, and E-Bike events. Always riding for the fun and challenge!*
