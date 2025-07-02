@@ -16,14 +16,23 @@
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+  name = "two wheels"
+  pageRef = "/two wheels/"
+  weight = 15
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+#  [main.params]
+#    showOn = ["posts"]
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+#  [main.params]
+#    showOn = ["posts"]
 
 [[main]]
   identifier = "search"
