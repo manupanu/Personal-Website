@@ -19,6 +19,9 @@ enableImageWebp = true
 # robots = ""
 fingerprintAlgorithm = "sha256"
 
+# Favicon configuration
+favicon = "favicon.ico"
+
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
